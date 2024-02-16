@@ -1,1 +1,7 @@
-# 8634----PRINCIPLES-OF-DATA-ANALYTICS
+# My Work
+
+**By Rahul Parvesh Dewan**
+
+I study at [ATU](https://www.atu.ie/).
+
+![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
