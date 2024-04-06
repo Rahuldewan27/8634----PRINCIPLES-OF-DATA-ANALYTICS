@@ -14,23 +14,23 @@ This folder contains 3 files.
 
 ### References
 
-1. w3schools. (n.d.). Python NumPy. Retrieved from [https://www.w3schools.com/python/numpy/default.asp](https://www.w3schools.com/python/numpy/default.asp)
+1. w3schools. (n.d.). Python NumPy. [https://www.w3schools.com/python/numpy/default.asp](https://www.w3schools.com/python/numpy/default.asp)
 
-2. w3schools. (n.d.). Python Pandas. Retrieved from [https://www.w3schools.com/python/pandas/default.asp](https://www.w3schools.com/python/pandas/default.asp)
+2. w3schools. (n.d.). Python Pandas. [https://www.w3schools.com/python/pandas/default.asp](https://www.w3schools.com/python/pandas/default.asp)
 
-3. w3schools. (n.d.). Python Pandas DataFrames. Retrieved from [https://www.w3schools.com/python/pandas/pandas_dataframes.asp](https://www.w3schools.com/python/pandas/pandas_dataframes.asp)
+3. w3schools. (n.d.). Python Pandas DataFrames. [https://www.w3schools.com/python/pandas/pandas_dataframes.asp](https://www.w3schools.com/python/pandas/pandas_dataframes.asp)
 
-4. w3schools. (n.d.). Python NumPy Random and Seaborn. Retrieved from [https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp)
+4. w3schools. (n.d.). Python NumPy Random and Seaborn. [https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp)
 
-5. Real Python. (n.d.). Pandas DataFrame 101. Retrieved from [https://realpython.com/courses/pandas-dataframes-101/](https://realpython.com/courses/pandas-dataframes-101/)
+5. Real Python. (n.d.). Pandas DataFrame 101. [https://realpython.com/courses/pandas-dataframes-101/](https://realpython.com/courses/pandas-dataframes-101/)
 
-6. Real Python. (n.d.). Pandas: Python Explore Dataset. Retrieved from [https://realpython.com/pandas-python-explore-dataset/](https://realpython.com/pandas-python-explore-dataset/)
+6. Real Python. (n.d.). Pandas: Python Explore Dataset. [https://realpython.com/pandas-python-explore-dataset/](https://realpython.com/pandas-python-explore-dataset/)
 
-7. Real Python. (n.d.). Python Histograms. Retrieved from [https://realpython.com/python-histograms/](https://realpython.com/python-histograms/)
+7. Real Python. (n.d.). Python Histograms. [https://realpython.com/python-histograms/](https://realpython.com/python-histograms/)
 
-8. Real Python. (n.d.). Python Bar Charts with Matplotlib. Retrieved from [https://realpython.com/python-bar-charts-matplotlib/](https://realpython.com/python-bar-charts-matplotlib/)
+8. Real Python. (n.d.). Python Bar Charts with Matplotlib. [https://realpython.com/python-bar-charts-matplotlib/](https://realpython.com/python-bar-charts-matplotlib/)
 
-9. Pandas. (n.d.). DataFrame.corr. Retrieved from [https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html)
+9. Pandas. (n.d.). DataFrame.corr. [https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html)
 
-10. Real Python. (n.d.). Exploring Correlation in Python. Retrieved from [https://realpython.com/numpy-scipy-pandas-correlation-python/](https://realpython.com/numpy-scipy-pandas-correlation-python/)
+10. Real Python. (n.d.). Exploring Correlation in Python. [https://realpython.com/numpy-scipy-pandas-correlation-python/](https://realpython.com/numpy-scipy-pandas-correlation-python/)
 
